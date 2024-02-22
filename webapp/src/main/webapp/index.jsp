@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> ****  50 % of flat discount on mobile phones and dresses offers available till 30th MARCH 2024 **** </h1>   
+         <h1> **** NOW THERE IS NO DISCOUNT 30th MARCH 2024 **** </h1>   
 	 
 
     </section>    
