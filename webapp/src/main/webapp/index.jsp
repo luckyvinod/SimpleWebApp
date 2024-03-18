@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> **** 50 % of flat discount on mobile PHONES AND LAPTOPS **** </h1>   
+         <h1> **** 90 %  discount on mobile PHONES AND LAPTOPS **** </h1>   
 	 
 
     </section>    
