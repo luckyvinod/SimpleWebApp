@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> **** 90 %  discount on mobile PHONES AND LAPTOPS **** </h1>   
+         <h1> ****  WE ARE PROVIDING A FREE MOBILE PHONES AND LAPTOPS FOR THE POOR STUDENTS **** </h1>   
 	 
 
     </section>    
