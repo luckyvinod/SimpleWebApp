@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> ****  WE ARE GIVEN 50% of DISCOUNT ON ALL HOME PRODUCTS **** </h1>   
+         <h1> ****  WE ARE GIVEN 80% of DISCOUNT ON ALL HOME PRODUCTS and dresses **** </h1>   
 	 
 
     </section>    
